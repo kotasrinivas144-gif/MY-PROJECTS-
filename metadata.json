@@ -1,0 +1,8 @@
+{
+  "name": "Remix RailPace - Dynamic Train Traffic \u0026 Arrival Pacing Optimizer",
+  "description": "Innovative railway dispatch dashboard featuring real-time track congestion heatmaps, interactive train navigation visuals, and predictive arrival delay optimization to prevent rail bottlenecks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
